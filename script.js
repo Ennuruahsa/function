@@ -223,7 +223,7 @@
 // up()
 
 //? Closures
-
+// rıdvan koyuncu edited
 // function out(){
 //     let outScope = "Ben dış değişkenim"
 //     function inFunc(){
@@ -233,3 +233,4 @@
 // }
 // let newFunc = out()
 // newFunc()
+
